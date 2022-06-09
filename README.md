@@ -16,7 +16,7 @@
   - json
   - math
 
-* Dataset is accessbile in the drive :
+* Dataset is accessbile in the drive : <br/>
   https://drive.google.com/drive/folders/18gxZwG9pdgh4avjine5I5QllV8elSrXQ?usp=sharing
 * Open collaborative_filtering_memory_item.ipynb and run all the cells of the notebook.
 * Open collaborative_filtering_model_MF.ipynb and run all the cells of the notebook.
