@@ -22,7 +22,7 @@
 * Open beer_recommender_system.ipynb and run all the cells of the notebook.
 
 #### Results:
-| Method | MAE** | MSE | RMSE |
+| Method | MAE | MSE | RMSE |
 | --- | --- | --- | --- |
 | Baseline | 0.108 | 0.1413 | 0.3759 |
 | Item Based Memory | 0.6825 | 0.4921 | 0.7015 |
